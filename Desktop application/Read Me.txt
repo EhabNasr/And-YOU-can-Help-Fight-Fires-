@@ -1,0 +1,3 @@
+Message format
+SensorID, Lat, Lng, Fire, Smoke, Temperature, Humidity	=> 1, 30.156487, 2.984599, 1, 1, 26.5, 80
+SensorID is necessary in case Sensor change its state to/from fire.
